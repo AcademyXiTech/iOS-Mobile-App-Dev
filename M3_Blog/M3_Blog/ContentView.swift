@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  M3_Blog
 //
-//  Created by Cameron Edwards on 14/9/22.
+//  Created on 14/9/22.
 //
 
 import SwiftUI
